@@ -1,0 +1,22 @@
+{
+  "wheel_id": 650,
+  "structure": "umbrella",
+  "slug": "goldcoastkitchenreno-com-152",
+  "project": "kitchen-renovations-gold-coast-quotes-explained-f0a6ed647e87b5b",
+  "parent_t1_ref": "goldcoastkitchenreno.com-010",
+  "node_role": "buffer",
+  "money_target": "goldcoastkitchenreno.com.au",
+  "primary_kw": "kitchen renovations gold coast quotes explained",
+  "intended_url": "https://aumedia.neocities.org/kitchen-renovations-gold-coast-quotes-explained-f0a6ed647e87b5b/",
+  "tier": "T2",
+  "writeback_nonce": "2fd687b6ca9bbb42",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/goldcoastkitchenreno.com-010/kitchen-renovations-gold-coast.html",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
